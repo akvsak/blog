@@ -1,1 +1,1 @@
-Sitemap: https://akvsak.github.io/fp/sitemap.xml
+Sitemap: https://akvsak.github.io/blog/sitemap.xml
